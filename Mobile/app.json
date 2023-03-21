@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Dev Market",
-    "slug": "DevMarket",
+    "slug": "Dev-Market",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -32,7 +32,7 @@
     },
     "extra": {
       "eas": {
-        "projectId": "f4a84e03-c4d1-429d-9d26-244b101d2be7"
+        "projectId": "1141ba28-4b32-4a75-8c20-9eccbd426501"
       }
     }
   }
